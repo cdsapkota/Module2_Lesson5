@@ -1,1 +1,1 @@
-# Module2_Lesson5
+This repository includes the assignments in Module2 Lesson5.
